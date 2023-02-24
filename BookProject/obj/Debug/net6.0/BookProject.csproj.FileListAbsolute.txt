@@ -1,0 +1,15 @@
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\bin\Debug\net6.0\BookProject.exe
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\bin\Debug\net6.0\BookProject.deps.json
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\bin\Debug\net6.0\BookProject.runtimeconfig.json
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\bin\Debug\net6.0\BookProject.dll
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\bin\Debug\net6.0\BookProject.pdb
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\BookProject.csproj.AssemblyReference.cache
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\BookProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\BookProject.AssemblyInfoInputs.cache
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\BookProject.AssemblyInfo.cs
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\BookProject.csproj.CoreCompileInputs.cache
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\BookProject.dll
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\refint\BookProject.dll
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\BookProject.pdb
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\BookProject.genruntimeconfig.cache
+C:\Users\Acsescity\Desktop\solution\task-1\BookProject\BookProject\obj\Debug\net6.0\ref\BookProject.dll
